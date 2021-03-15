@@ -1,0 +1,16 @@
+D:\13Digitech\Drink\bin\Debug\net5.0\Drink.exe
+D:\13Digitech\Drink\bin\Debug\net5.0\Drink.deps.json
+D:\13Digitech\Drink\bin\Debug\net5.0\Drink.runtimeconfig.json
+D:\13Digitech\Drink\bin\Debug\net5.0\Drink.runtimeconfig.dev.json
+D:\13Digitech\Drink\bin\Debug\net5.0\Drink.dll
+D:\13Digitech\Drink\bin\Debug\net5.0\ref\Drink.dll
+D:\13Digitech\Drink\bin\Debug\net5.0\Drink.pdb
+D:\13Digitech\Drink\obj\Debug\net5.0\Drink.csprojAssemblyReference.cache
+D:\13Digitech\Drink\obj\Debug\net5.0\Drink.GeneratedMSBuildEditorConfig.editorconfig
+D:\13Digitech\Drink\obj\Debug\net5.0\Drink.AssemblyInfoInputs.cache
+D:\13Digitech\Drink\obj\Debug\net5.0\Drink.AssemblyInfo.cs
+D:\13Digitech\Drink\obj\Debug\net5.0\Drink.csproj.CoreCompileInputs.cache
+D:\13Digitech\Drink\obj\Debug\net5.0\Drink.dll
+D:\13Digitech\Drink\obj\Debug\net5.0\ref\Drink.dll
+D:\13Digitech\Drink\obj\Debug\net5.0\Drink.pdb
+D:\13Digitech\Drink\obj\Debug\net5.0\Drink.genruntimeconfig.cache

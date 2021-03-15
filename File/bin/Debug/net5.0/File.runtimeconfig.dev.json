@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\longy\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\longy\\.nuget\\packages"
+    ]
+  }
+}
